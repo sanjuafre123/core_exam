@@ -1,16 +1,16 @@
 # core_exam_two
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h1 align="left"></h1>
+<div align ="center">
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "https://github.com/sanjuafre123/core_exam/assets/148860124/235ca2cc-1580-42bf-9521-6b76cdd6a839" height ="550">
+ <img src = "https://github.com/sanjuafre123/core_exam/assets/148860124/f00e5a42-b488-4207-b63b-b50605207941" height ="550">
+  <img src = "https://github.com/sanjuafre123/core_exam/assets/148860124/69b47919-bdc8-4303-947d-ed2bbd14da56" height ="550">
+   <img src = "https://github.com/sanjuafre123/core_exam/assets/148860124/cb2fde2a-7389-4496-ab4b-43639e1ef127" height ="550">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/sanjuafre123/core_exam/assets/148860124/26e1b0bc-e2c0-4da1-b16a-3c0ff2cec220
+  
+</div>
